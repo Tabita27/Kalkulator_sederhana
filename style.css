@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('optimis.jpeg'); 
+  background-size: cover;
+  text-align: center;
+}
+
+#header {
+  font-size: 30px;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+input[type="number"] {
+  width: 200px;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #1b7e9a; 
+  border-radius: 5px;
+  font-size: 18px;
+  text-align: center;
+  box-sizing: border-box; 
+  box-shadow: 0 0 10px rgba(17, 166, 230, 0.954);
+}
+
+label {
+  font-size: 18px;
+  color: #fff;
+  box-sizing: border-box; 
+  box-shadow: 0 0 10px rgba(227, 232, 238, 0.954);
+}
+
+#hasil {
+  font-size: 24px;
+  font-family: poppins;
+  color: #fff; 
+  margin-top: 20px;
+  font-size: 22px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: #3295d7;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(76, 161, 213, 0.753);
+}
+
+button:hover {
+  background-color: #0d6ccc;
+}
+
+div {
+  margin-bottom: 20px;
+}
